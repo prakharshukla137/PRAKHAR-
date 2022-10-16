@@ -4,7 +4,7 @@ class string_altrnate
 {
 	public static void main(String args[])
 		{
- 			
+ 			//sdsdfsdfsdf
 			String str,str1="";
 			int i,j=0;
 			char ch ;
