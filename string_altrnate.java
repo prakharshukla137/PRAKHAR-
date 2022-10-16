@@ -8,8 +8,8 @@ class string_altrnate
 			String str,str1="";
 			int i,j=0;
 			char ch ;
-			Scanner sc=new Scanner(System.in);
-			System.out.println("string");
+			Scanner sc =new Scanner(System.in);///hello world
+			System.out.println("string");//dummy content
 			str=sc.nextLine();
 			//len=str.length();
 			//System.out.println("string1");
